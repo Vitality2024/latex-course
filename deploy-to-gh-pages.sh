@@ -1,5 +1,5 @@
 #
-# Copy the slides and the exercise files referenced from the slides from the
+# Copy the slides and the exercise files referzh-cnced from the slides from the
 # master branch to the gh-pages branch to make them accessible at
 # http://jdleesmiller.github.io/latex-course/...
 #
@@ -10,7 +10,7 @@ if ! git diff-index --quiet HEAD --; then
 fi
 
 # build / bundle files that we need to put on the website
-cd en
+cd zh-cn
 make latex-course.tgz
 cd ..
 
@@ -19,21 +19,21 @@ rm -rf deploy
 mkdir deploy
 cd deploy
 
-mkdir en
-cd en
-mv ../../en/latex-course.tgz .
+mkdir zh-cn
+cd zh-cn
+mv ../../zh-cn/latex-course.tgz .
 tar xzf latex-course.tgz
 rm latex-course.tgz
 cd ..
 
-echo '<html><head><title>latex-course</title></head><body><a href="https://github.com/jdleesmiller/latex-course">Please see repository.</a></body></html>' > index.html
+echo '<html><head><title>latex-course</title></head><body><a href="https://github.com/Vitality2024/latex-course">Please see repository.</a></body></html>' > index.html
 
 cd ..
 
 # destroy current content of the gh-pages branch
 git checkout gh-pages
 git rm -rf .
-rm -rf en
+rm -rf zh-cn
 mv deploy/* .
 rmdir deploy
 git add .
