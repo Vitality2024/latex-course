@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c}{\PYGZpc{} 纯文本:}
+令a和b为不等正整数，
+再令 c = a \PYGZhy{} b + 1。
+
+\PYG{c}{\PYGZpc{} 数学表达式经处理:}
+令\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{a}\PYG{l+s}{\PYGZdl{}}和\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{b}\PYG{l+s}{\PYGZdl{}}为不等正整数，
+再令 \PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{c }\PYG{o}{=}\PYG{n+nb}{ a }\PYG{o}{\PYGZhy{}}\PYG{n+nb}{ b }\PYG{o}{+}\PYG{n+nb}{ }\PYG{l+m}{1}\PYG{l+s}{\PYGZdl{}}。
+\end{Verbatim}

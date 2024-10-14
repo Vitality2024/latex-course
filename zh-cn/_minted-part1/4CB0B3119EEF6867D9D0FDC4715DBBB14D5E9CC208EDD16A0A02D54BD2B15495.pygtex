@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+单引号: `文本\PYGZsq{}.
+
+双引号: ``文本\PYGZsq{}\PYGZsq{}.
+\end{Verbatim}

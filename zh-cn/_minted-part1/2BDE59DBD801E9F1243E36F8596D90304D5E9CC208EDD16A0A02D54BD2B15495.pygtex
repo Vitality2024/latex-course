@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}CJKfontspec}\PYG{n+na}{[FakeSlant = 0.2]}
+\PYG{n+nb}{\PYGZob{}}STXIHEI.TTF\PYG{n+nb}{\PYGZcb{}}伪斜体（华文细黑）\PYG{n+nb}{\PYGZcb{}}
+
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}CJKfontspec}\PYG{n+na}{[FakeBold = 2]}
+\PYG{n+nb}{\PYGZob{}}STXIHEI.TTF\PYG{n+nb}{\PYGZcb{}}伪粗体（华文细黑）\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}documentclass}\PYG{n+nb}{\PYGZob{}}article\PYG{n+nb}{\PYGZcb{}}
+\PYG{c}{\PYGZpc{} 在调用宏包的同时设置参数}
+\PYG{k}{\PYGZbs{}usepackage}\PYG{n+na}{[CJKmath=true]}\PYG{n+nb}{\PYGZob{}}xeCJK\PYG{n+nb}{\PYGZcb{}}
+
+\PYG{c}{\PYGZpc{} 亦可调用之后继续设置参数}
+\PYG{k}{\PYGZbs{}xeCJKsetup}\PYG{n+nb}{\PYGZob{}}PunctStyle=quanjiao\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 全角标点}
+
+\PYG{c}{\PYGZpc{} 可以用中文定义命令}
+\PYG{k}{\PYGZbs{}newcommand}\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}无}穷\PYG{n+nb}{\PYGZcb{}\PYGZob{}}\PYG{k}{\PYGZbs{}infty}\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}textbf}\PYG{n+nb}{\PYGZob{}}为什么\PYG{n+nb}{\PYGZcb{}} \PYG{l+s}{\PYGZdl{}}\PYG{l+m}{8}\PYG{l+s}{\PYGZdl{}} \PYG{k}{\PYGZbs{}textit}\PYG{n+nb}{\PYGZob{}}横\PYG{n+nb}{\PYGZcb{}}过来就是 \PYG{l+s}{\PYGZdl{}}\PYG{n+nv}{\PYGZbs{}无}\PYG{n+nb}{穷}\PYG{l+s}{\PYGZdl{}} ?
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

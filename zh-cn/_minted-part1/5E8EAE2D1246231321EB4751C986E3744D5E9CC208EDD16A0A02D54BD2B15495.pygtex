@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+中英转换时many      spaces及英文
+单词间有空格。
+中文间         空格不显示。
+
+多个空格用
+\PYG{k}{\PYGZbs{}emph}\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}char}`\PYG{k}{\PYGZbs{}\PYGZbs{}} 反斜线\PYG{n+nb}{\PYGZcb{}}\PYG{l+s}{\PYGZdl{}}\PYG{o}{+}\PYG{l+s}{\PYGZdl{}}空格
+强制\PYG{k}{\PYGZbs{} \PYGZbs{} \PYGZbs{} \PYGZbs{} \PYGZbs{} \PYGZbs{} }转换。
+\end{Verbatim}

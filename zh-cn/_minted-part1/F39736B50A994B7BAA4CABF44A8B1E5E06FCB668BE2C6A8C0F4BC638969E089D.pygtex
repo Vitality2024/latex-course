@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}documentclass}\PYG{n+nb}{\PYGZob{}}article\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}usepackage}\PYG{n+nb}{\PYGZob{}}xeCJK\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}setCJKmainfont}\PYG{n+nb}{\PYGZob{}}cwTeXHeiBold\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}setCJKmathfont}\PYG{n+nb}{\PYGZob{}}cmr\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+
+Hello World! 我来啦！\PYG{c}{\PYGZpc{} 这里是内容……}
+
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

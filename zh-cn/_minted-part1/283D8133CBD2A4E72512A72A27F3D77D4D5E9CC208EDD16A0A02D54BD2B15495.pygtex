@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+我们可以在行内写
+\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{ }\PYG{n+nv}{\PYGZbs{}Omega}\PYG{n+nb}{ }\PYG{o}{=}\PYG{n+nb}{ }\PYG{n+nv}{\PYGZbs{}sum}\PYG{n+nb}{\PYGZus{}\PYGZob{}k}\PYG{o}{=}\PYG{l+m}{1}\PYG{n+nb}{\PYGZcb{}\PYGZca{}\PYGZob{}n\PYGZcb{} }\PYG{n+nv}{\PYGZbs{}omega}\PYG{n+nb}{\PYGZus{}k }\PYG{l+s}{\PYGZdl{}}
+也可以单行显示
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation\PYG{n+nb}{\PYGZcb{}}
+  \PYG{k}{\PYGZbs{}Omega} = \PYG{k}{\PYGZbs{}sum}\PYG{n+nb}{\PYGZus{}\PYGZob{}}k=1\PYG{n+nb}{\PYGZcb{}\PYGZca{}\PYGZob{}}n\PYG{n+nb}{\PYGZcb{}} \PYG{k}{\PYGZbs{}omega}\PYG{n+nb}{\PYGZus{}}k
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation\PYG{n+nb}{\PYGZcb{}}
+这个公式。
+\end{Verbatim}

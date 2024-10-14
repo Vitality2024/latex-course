@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 格式不对!}
+ min\PYG{n+nb}{\PYGZus{}\PYGZob{}}x,y\PYG{n+nb}{\PYGZcb{}} (1\PYGZhy{}x)\PYG{n+nb}{\PYGZca{}}2 + 100(y\PYGZhy{}x\PYG{n+nb}{\PYGZca{}}2)\PYG{n+nb}{\PYGZca{}}2
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 赞!}
+\PYG{k}{\PYGZbs{}min}\PYG{n+nb}{\PYGZus{}\PYGZob{}}x,y\PYG{n+nb}{\PYGZcb{}\PYGZob{}}(1\PYGZhy{}x)\PYG{n+nb}{\PYGZca{}}2 + 100(y\PYGZhy{}x\PYG{n+nb}{\PYGZca{}}2)\PYG{n+nb}{\PYGZca{}}2\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

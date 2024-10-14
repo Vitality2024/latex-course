@@ -1,0 +1,12 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}itemize\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 无序列表}
+\PYG{k}{\PYGZbs{}item}\PYG{n+na}{[\PYGZhy{}]} 符号自定义
+\PYG{k}{\PYGZbs{}item}\PYG{n+na}{[什么]} 都可以
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}itemize\PYG{n+nb}{\PYGZcb{}}
+
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 有序列表}
+\PYG{k}{\PYGZbs{}item} 没有太大自由
+\PYG{k}{\PYGZbs{}item} 但也有选项 \PYG{c}{\PYGZpc{} 宏包和自定义命令}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+
+\end{Verbatim}

@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+  \PYG{k}{\PYGZbs{}Omega} = \PYG{k}{\PYGZbs{}sum}\PYG{n+nb}{\PYGZus{}\PYGZob{}}k=1\PYG{n+nb}{\PYGZcb{}\PYGZca{}\PYGZob{}}n\PYG{n+nb}{\PYGZcb{}} \PYG{k}{\PYGZbs{}omega}\PYG{n+nb}{\PYGZus{}}k
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

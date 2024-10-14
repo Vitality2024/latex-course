@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+令\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{y}\PYG{o}{=}\PYG{n+nb}{mx}\PYG{o}{+}\PYG{n+nb}{b}\PYG{l+s}{\PYGZdl{}} 为 \PYG{k}{\PYGZbs{}ldots}
+
+令 \PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{y }\PYG{o}{=}\PYG{n+nb}{ m x }\PYG{o}{+}\PYG{n+nb}{ b}\PYG{l+s}{\PYGZdl{}} 为 \PYG{k}{\PYGZbs{}ldots}
+\end{Verbatim}

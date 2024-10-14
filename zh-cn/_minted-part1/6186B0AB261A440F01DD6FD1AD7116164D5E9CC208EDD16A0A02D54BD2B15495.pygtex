@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}beta}\PYG{n+nb}{\PYGZus{}}i =
+\PYG{k}{\PYGZbs{}frac}\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}operatorname}\PYG{n+nb}{\PYGZob{}}Cov\PYG{n+nb}{\PYGZcb{}}(R\PYG{n+nb}{\PYGZus{}}i, R\PYG{n+nb}{\PYGZus{}}m)\PYG{n+nb}{\PYGZcb{}}
+     \PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}operatorname}\PYG{n+nb}{\PYGZob{}}Var\PYG{n+nb}{\PYGZcb{}}(R\PYG{n+nb}{\PYGZus{}}m)\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}equation*\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}
