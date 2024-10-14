@@ -10,7 +10,7 @@ if ! git diff-index --quiet HEAD --; then
 fi
 
 # build / bundle files that we need to put on the website
-cd en
+cd zh-cn
 make latex-course.tgz
 cd ..
 
